@@ -1,0 +1,39 @@
+.nav_buttons {
+  display: inline-block;
+  padding: 15px;
+  width: 75px;
+  background-color: lightcyan;
+  text-align: center;
+}
+
+#nav {
+  background-color: grey;
+}
+
+#left {
+  height: 1000px;
+  width: 29%;
+  float: left;
+  background-color: lightblue;
+}
+.bold {
+  font-weight: 700;
+}
+.topLeft {
+  text-align: center;
+  border: solid grey;
+  height: 250px;
+}
+.bottomLeft {
+  text-align: left;
+  border: solid grey;
+  padding: 15%;
+  border-top: none;
+}
+
+#right {
+  height: 1000px;
+  width: 71%;
+  float: left;
+  background-color: lightpink;
+}
