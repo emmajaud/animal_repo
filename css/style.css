@@ -11,7 +11,7 @@
 }
 
 #left {
-  height: 1000px;
+  height: 1080px;
   width: 29%;
   float: left;
   background-color: lightblue;
@@ -22,7 +22,9 @@
 .topLeft {
   text-align: center;
   border: solid grey;
-  height: 250px;
+}
+.crop{
+  width: 100%;
 }
 .bottomLeft {
   text-align: left;
@@ -32,7 +34,7 @@
 }
 
 #right {
-  height: 1000px;
+  height: 1080px;
   width: 71%;
   float: left;
   background-color: lightpink;
